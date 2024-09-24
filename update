@@ -1,0 +1,6 @@
+*today update:
+#implement many to many relationship
+#study seeders
+#create Admin login through seeders
+#create user route singup login user once user login create product, perfrom crud on product,
+
